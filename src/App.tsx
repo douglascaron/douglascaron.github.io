@@ -163,7 +163,7 @@ function App() {
                 period="September 2023 - July 2025"
               />
               <TimelineItem 
-                title="GCSE"
+                title="GCSEs"
                 organization="The Fulham Boys School"
                 period="March 2021 - July 2023"
               />
